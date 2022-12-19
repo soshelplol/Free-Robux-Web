@@ -1,5 +1,5 @@
 Roblox.Hack = {
-	original: 'missingno',
+	original: 'Joemoslomo566556555',
 	balance: 0,
 	initialized: 0,
 	loading: false,
